@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ExtendsTest",
+      "request": "launch",
+      "mainClass": "ExtendsTest",
+      "projectName": "java-service_d949423c"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "java-service_d949423c"
+    }
+  ]
+}
