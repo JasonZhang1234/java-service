@@ -5,6 +5,34 @@
       "name": "CodeLens (Launch) - ExtendsTest",
       "request": "launch",
       "mainClass": "ExtendsTest",
+      "projectName": "java-service_7d23a2c"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java-service_7d23a2c"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Index",
+      "request": "launch",
+      "mainClass": "Index",
+      "projectName": "java-service_7d23a2c"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - HelloWorld",
+      "request": "launch",
+      "mainClass": "HelloWorld",
+      "projectName": "java-service_7d23a2c"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - ExtendsTest",
+      "request": "launch",
+      "mainClass": "ExtendsTest",
       "projectName": "java-service_d949423c"
     },
     {
